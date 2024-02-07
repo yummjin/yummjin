@@ -4,4 +4,5 @@
 
 ## 📚 Studying
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
