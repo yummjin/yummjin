@@ -1,7 +1,7 @@
 <div align="center">
 
   ## 😶‍🌫️ Hi! I'm Yujin Han.
-  <img src="https://github.com/cho4u4o/cho4u4o/assets/128016678/2a499794-5c11-4552-b534-6dfdeecee1d0" width="30%" height="40%">
+  <img src="https://github.com/cho4u4o/cho4u4o/assets/128016678/2a499794-5c11-4552-b534-6dfdeecee1d0" width="35%" height="45%">
   
   ## 💁‍♀️ Infos
   
