@@ -1,4 +1,8 @@
 <div align="center">
+
+  ## 😶‍🌫️ Hi! I'm Yujin Han.
+  ![toad](https://github.com/cho4u4o/cho4u4o/assets/128016678/2a499794-5c11-4552-b534-6dfdeecee1d0)
+  <img src="https://github.com/cho4u4o/cho4u4o/assets/128016678/2a499794-5c11-4552-b534-6dfdeecee1d0" width="20%" height="30%">
   
   ## 💁‍♀️ Infos
   
@@ -6,9 +10,6 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cho4u4o&layout=donut)](https://github.com/anuraghazra/github-readme-stats)  
 
-  ##
-  ![toad](https://github.com/cho4u4o/cho4u4o/assets/128016678/2a499794-5c11-4552-b534-6dfdeecee1d0)
-  
   ## 📚 Studying
   ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
   ![Dart](https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white)
