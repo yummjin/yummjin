@@ -4,7 +4,7 @@
   <img src="https://github.com/cho4u4o/cho4u4o/assets/128016678/2a499794-5c11-4552-b534-6dfdeecee1d0" width="35%" height="45%">
 
 <a href="https://github.com/2jun0/github-pokemon-collection">
-  <img src="https://gitpokecol.org/pokemons/{cho4u4o}?face=right" alt="{cho4u4o}'s GitHub Pokemon Collection"/>
+    <img src="https://gitpokecol.org/pokemons/cho4u4o?face=left" alt="cho4u4o's GitHub Pokemon Collection"/>
 </a>
 
   ## 💁‍♀️ Infos
