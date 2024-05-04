@@ -8,9 +8,9 @@
 <a href="https://github.com/2jun0/github-pokemon-collection">
     <img src="https://gitpokecol.org/pokemons/cho4u4o?face=left" alt="cho4u4o's GitHub Pokemon Collection"/>
 </a>
-<div allign="center">
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cho4u4o)](https://solved.ac/cho4u4o/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cho4u4o&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 
    📚 Studying
   ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
