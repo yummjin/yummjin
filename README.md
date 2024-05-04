@@ -2,7 +2,10 @@
 
   ## 😶‍🌫️ Hi! I'm Yujin Han.
   <img src="https://github.com/cho4u4o/cho4u4o/assets/128016678/2a499794-5c11-4552-b534-6dfdeecee1d0" width="35%" height="45%">
-  
+
+<a href="https://github.com/2jun0/github-pokemon-collection">
+  <img src="https://gitpokecol.org/pokemons/{username}?face=right" alt="{username}'s GitHub Pokemon Collection"/>
+</a>
   ## 💁‍♀️ Infos
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cho4u4o)](https://solved.ac/cho4u4o/) 
