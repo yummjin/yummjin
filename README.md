@@ -1,4 +1,4 @@
-<div>
+<div align="center">
 
   ### 𝐇𝐢 !
   <img src="https://github.com/cho4u4o/cho4u4o/assets/128016678/5df2d4e5-a3a7-4e12-b645-a952e2959b1f" width=20% height=20%/>
