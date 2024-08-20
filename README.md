@@ -1,23 +1,73 @@
-<div align="center">
+## 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 𝚈𝚞𝚓𝚒𝚗  
+- **Kyonggi University** Computer Engineering (2023 ~ 2027)
+- **InQ** Programming Club (2023 ~ )
 
-  ### 𝐇𝐢 !
-  <img src="https://github.com/cho4u4o/cho4u4o/assets/128016678/5df2d4e5-a3a7-4e12-b645-a952e2959b1f" width=20% height=20%/>
-  
-  ### 𝐒𝐭𝐚𝐭𝐬
+## 𝙴𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜
+<table>
+  <tr>
+    <th>Type</th>
+    <th>Name</th>
+    <th>Period</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Project</td>
+    <td>Saphy</td>
+    <td>24.05 ~ 24.12</td>
+    <td></td>
+  </tr>
+</table>
 
-<a href="https://github.com/2jun0/github-pokemon-collection">
-    <img src="https://gitpokecol.org/pokemons/cho4u4o?face=left" alt="cho4u4o's GitHub Pokemon Collection"/>
-</a>
+## 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐
+<table>
+  <tr>
+    <th>High</th>
+    <td><img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"></td>
+  </tr>
+  <tr>
+    <th>Middle</th>
+    <td>
+      <img src="https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white">
+      <img src="https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white">
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <th>Low</th>
+    <td>
+      <img src="https://img.shields.io/badge/React-0175C2.svg?&style=for-the-badge&logo=React&logoColor=white">
+      <img src="https://img.shields.io/badge/JavaScript-0175C2.svg?&style=for-the-badge&logo=JavaScript&logoColor=white">
+      <img src="https://img.shields.io/badge/Kotlin-0175C2.svg?&style=for-the-badge&logo=Kotlin&logoColor=white">
+    </td>
+  </tr>
+</table>
 
-  ### 𝐀𝐫𝐜𝐡𝐢𝐯𝐞𝐦𝐞𝐧𝐭𝐬
+## 𝚂𝚘𝚌𝚒𝚊𝚕
+<table>
+  <tr>
+    <th>Blogging</th>
+    <td>      
+      <img src="https://img.shields.io/badge/Notion-02569B.svg?&style=for-the-badge&logo=Notion&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <th>SNS</th>
+    <td>
+      <img src="https://img.shields.io/badge/Instagram-02569B.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
+    </td>
+  </tr>
+</table>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cho4u4o&show_icons=true&theme=transparent) 
+## 𝚂𝚝𝚊𝚝𝚜
 
-  ### 𝐒𝐭𝐮𝐝𝐲𝐢𝐧𝐠
-  
-  ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-  ![Dart](https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white)
-  ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-</div>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=cho4u4o&show_icons=true&theme=transparent"></td>
+    <td>
+      <a href="https://github.com/2jun0/github-pokemon-collection">
+        <img src="https://gitpokecol.org/pokemons/cho4u4o?face=left" alt="cho4u4o's GitHub Pokemon Collection"/>
+      </a>
+    </td>
+  </tr>
+</table>
