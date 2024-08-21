@@ -12,9 +12,15 @@
   </tr>
   <tr>
     <td>Project</td>
+    <td>바른자세</td>
+    <td>24.04 ~ 24.06</td>
+    <td>https://github.com/cho4u4o/barunJasae</td>
+  </tr>
+  <tr>
+    <td>Project</td>
     <td>Saphy</td>
     <td>24.05 ~ 24.12</td>
-    <td></td>
+    <td>https://github.com/2024-Saphy/App.git</td>
   </tr>
 </table>
 
@@ -36,9 +42,9 @@
   <tr>
     <th>Low</th>
     <td>
-      <img src="https://img.shields.io/badge/React-0175C2.svg?&style=for-the-badge&logo=React&logoColor=white">
-      <img src="https://img.shields.io/badge/JavaScript-0175C2.svg?&style=for-the-badge&logo=JavaScript&logoColor=white">
-      <img src="https://img.shields.io/badge/Kotlin-0175C2.svg?&style=for-the-badge&logo=Kotlin&logoColor=white">
+      <img src="https://img.shields.io/badge/React-61dafb.svg?&style=for-the-badge&logo=React&logoColor=black">
+      <img src="https://img.shields.io/badge/JavaScript-f7df1e.svg?&style=for-the-badge&logo=JavaScript&logoColor=black">
+      <img src="https://img.shields.io/badge/Kotlin-0175C2.svg?&style=for-the-badge&logo=Kotlin&logoColor=black">
     </td>
   </tr>
 </table>
@@ -47,14 +53,21 @@
 <table>
   <tr>
     <th>Blogging</th>
-    <td>      
-      <img src="https://img.shields.io/badge/Notion-02569B.svg?&style=for-the-badge&logo=Notion&logoColor=white">
+    <td> 
+      <a href="https://cho4u4o.notion.site/738b3dbcf4554a9e8cf9c2715dd50378">      
+      <img src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white">
+      </a>
+      <a href="https://cho4u4o.tistory.com/">
+        <img src="https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white">
+      </a>
     </td>
   </tr>
   <tr>
     <th>SNS</th>
     <td>
-      <img src="https://img.shields.io/badge/Instagram-02569B.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
+      <a href="https://www.instagram.com/utmusvbe/">
+      <img src="https://img.shields.io/badge/Instagram-e4405f.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
+      </a>
     </td>
   </tr>
 </table>
