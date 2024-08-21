@@ -54,7 +54,7 @@
   <tr>
     <th>Blogging</th>
     <td> 
-      <a href="https://cho4u4o-loggages-kvwnu4td5-yujin-hans-projects.vercel.app/">      
+      <a href="https://cho4u4o-loggages.vercel.app/">      
       <img src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white">
       </a>
       <a href="https://cho4u4o.tistory.com/">
