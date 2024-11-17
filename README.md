@@ -4,7 +4,7 @@
 기본이 튼실한 개발자가 되고 싶습니다.
 
 ### Projects
-- **Saphy** 2024/05 ~ 2024/10 **Flutter**
+- [**Saphy**](https://github.com/2024-Saphy) 2024/05 ~ 2024/10 **Flutter**
 - **Kiryong** 2024/09 ~ 2024/11 **React**
 
 ### Stacks
