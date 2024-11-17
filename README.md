@@ -26,7 +26,7 @@
         <td><img src="https://img.shields.io/badge/JavaScript-f7df1e.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"></td>
     </tr>
      <tr>
-        <th>Library, Framework</th>
+        <th>Library & Framework</th>
         <td><img src="https://img.shields.io/badge/React-61dafb.svg?&style=for-the-badge&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"></td>
     </tr>
 </table>
