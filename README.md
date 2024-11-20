@@ -6,18 +6,11 @@
 
 
 ### Projects
-<table>
-    <tr>
-        <th>Saphy</th>
-        <td>2024/05 ~ 2024/10</td>
-        <td>Flutter, Dart</td>
-    </tr>
-     <tr>
-        <th>Kiryong</th>
-        <td>2024/09 ~ 2024/11</td>
-         <td>React, JavaScript</td>
-    </tr>
-</table>
+| **Project Name** | **Duration**         | **Used**   | **Preview**                      |
+|-------------------|----------------------|--------------------|--------------------------------------|
+| Saphy            | 2024/05 ~ 2024/10   | Flutter, Dart      | [Repository](https://github.com/2024-Saphy) |
+| Kiryong          | 2024/09 ~ 2024/11   | React, JavaScript, EmotionCSS  | [Service Site](https://www.kiryong.site/)             |
+| TeamPu         | 2024/11 ~ 2024/12   | React, JavaScript, TailwindCSS  |                                     |
 
 ### Stacks
 <table>
