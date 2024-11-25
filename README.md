@@ -7,7 +7,7 @@
 | **Project Name** | **Duration**         | **Used**                     | **Preview**                      | **Role**                |
 |-------------------|----------------------|-------------------------------|-----------------------------------|-------------------------|
 | BarunJasae        | 2024/04 ~ 2024/06   | HTML, CSS, JavaScript         | [Repository](https://github.com/cho4u4o/barunJasae) | Design, Frontend    |
-| Saphy             | 2024/05 ~ 2024/10   | Flutter, Dart                 | [Repository](https://github.com/2024-Saphy)         | Design, Mobile App Developer |
+| Saphy             | 2024/05 ~ 2024/10   | Flutter, Dart                 | [Repository](https://github.com/2024-Saphy)         | Design, App Developer |
 | Kiryong           | 2024/09 ~ 2024/11   | React, JavaScript, EmotionCSS | [Service Site](https://www.kiryong.site/)          | Design, Frontend  |
 | TeamPu            | 2024/11 ~ 2024/12   | React, JavaScript, TailwindCSS |                                   | Design, Frontend      |
 
