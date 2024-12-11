@@ -1,5 +1,13 @@
+
+
 ## 𝑯𝒊 𝑻𝒉𝒆𝒓𝒆  🐋
+
 안녕하세요! 프론트엔드 공부를 하고 있는 한유진입니다.
+
+<img src="https://github.com/user-attachments/assets/4b29abf2-26fd-4956-a0d5-fd69d45ff6a1" height="200px" />
+
+<img src="https://github.com/user-attachments/assets/4ce69997-db02-4f75-ba38-c0f302b0700f" height="200px" />
+
 
 <details>
 <summary><h2>𝑻𝒐𝒈𝒈𝒍𝒆 𝑭𝒐𝒓 𝑫𝒆𝒕𝒂𝒊𝒍𝒔</h2></summary>
