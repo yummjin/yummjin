@@ -1,18 +1,11 @@
-### Hi There.
-안녕하세요. 프론트엔드 공부를 하고 있는 한유진입니다.
+## 𝑯𝒊 𝑻𝒉𝒆𝒓𝒆  🐋
+안녕하세요! 프론트엔드 공부를 하고 있는 한유진입니다.
 
+<details>
+<summary><h2>𝑻𝒐𝒈𝒈𝒍𝒆 𝑭𝒐𝒓 𝑫𝒆𝒕𝒂𝒊𝒍𝒔</h2></summary>
+<div markdown="1">
 
-### Projects
-
-| **Project Name** | **Duration**         | **Used**                     | **Preview**                      | **Role**                |
-|-------------------|----------------------|-------------------------------|-----------------------------------|-------------------------|
-| BarunJasae        | 2024/04 ~ 2024/06   | HTML, CSS, JavaScript         | [Repository](https://github.com/cho4u4o/barunJasae) | Design, Frontend    |
-| Saphy             | 2024/05 ~ 2024/10   | Flutter, Dart                 | [Repository](https://github.com/2024-Saphy)         | Design, App Developer |
-| Kiryong           | 2024/09 ~ 2024/11   | React, JavaScript, EmotionCSS | [Service Site](https://www.kiryong.site/)          | Design, Frontend  |
-| TeamPu            | 2024/11 ~ 2024/12   | React, JavaScript, TailwindCSS | [Service Site](https://team-pu.vercel.app/)     | Design, Frontend      |
-
-
-### Stacks
+### 𝑺𝒕𝒂𝒄𝒌𝒔 
 <table>
     <tr>
         <th>Language</th>
@@ -23,9 +16,17 @@
         <td><img src="https://img.shields.io/badge/React-61dafb.svg?&style=for-the-badge&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"></td>
     </tr>
 </table>
-   
 
-### Social
+### 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 
+
+| **Project Name** | **Duration**         | **Used**                     | **Preview**                      | **Role**                |
+|-------------------|----------------------|-------------------------------|-----------------------------------|-------------------------|
+| BarunJasae        | 2024/04 ~ 2024/06   | HTML, CSS, JavaScript         | [Repository](https://github.com/cho4u4o/barunJasae) | Design, Frontend    |
+| Saphy             | 2024/05 ~ 2024/10   | Flutter, Dart                 | [Repository](https://github.com/2024-Saphy)         | Design, App Developer |
+| Kiryong           | 2024/09 ~ 2024/11   | React, JavaScript, EmotionCSS | [Service Site](https://www.kiryong.site/)          | Design, Frontend  |
+| TeamPu            | 2024/11 ~ 2024/12   | React, JavaScript, TailwindCSS | [Service Site](https://team-pu.vercel.app/)     | Design, Frontend      |
+
+### 𝑺𝒐𝒄𝒊𝒂𝒍
 <a href="https://cho4u4o-loggages.vercel.app/">      
   <img src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white">
 </a>
@@ -33,6 +34,16 @@
   <img src="https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white">
 </a>
 
-### Stat
+### 𝑺𝒕𝒂𝒕 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cho4u4o)](https://solved.ac/cho4u4o)
+
+</div>
+</details>
+
+
+
+   
+
+
+
