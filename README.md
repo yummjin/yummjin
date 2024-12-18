@@ -1,6 +1,6 @@
 
 
-## 𝑯𝒊 𝑻𝒉𝒆𝒓𝒆  🐋
+## Hi There  🐋
 
 <img src="https://github.com/user-attachments/assets/fa691d81-4747-40cc-8693-385ac21b7cc0" height="200px"/>
 
@@ -9,7 +9,7 @@
 
 
 <details>
-<summary><h2>𝑻𝒐𝒈𝒈𝒍𝒆 𝑭𝒐𝒓 𝑫𝒆𝒕𝒂𝒊𝒍𝒔</h2></summary>
+<summary><h3>Toggle for Details</h3></summary>
 <div markdown="1">
 
 ### 𝑺𝒕𝒂𝒄𝒌𝒔 
