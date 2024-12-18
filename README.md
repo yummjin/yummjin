@@ -34,7 +34,7 @@
 | TeamPu            | 2024/11 ~ 2024/12   | React, JavaScript, TailwindCSS | [Service Site](https://team-pu.vercel.app/)     | Design, Frontend      |
 
 ### 𝑺𝒐𝒄𝒊𝒂𝒍
-<a href="https://cho4u4o-loggages.vercel.app/">      
+<a href="https://cho4u4o.vercel.app/">      
   <img src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white">
 </a>
 <a href="https://cho4u4o.tistory.com/">      
