@@ -8,7 +8,7 @@
 안녕하세요! 프론트엔드 공부를 하고 있는 한유진입니다.
 
 ### Currently Studying
-- JavaScript, TypeScript, React
+- JavaScript, TypeScript, React, Next.js
 
 ### Know how to..
 - Dart, Flutter
