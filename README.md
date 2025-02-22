@@ -5,7 +5,7 @@
 
 <a href="https://yummjin.vercel.app/">
    
-![icon](https://img.shields.io/badge/click_here-my_blog-pink)<br/>
+![icon](https://img.shields.io/badge/click_here-visit_my_blog-pink)<br/>
 
 </a>
 
