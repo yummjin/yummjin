@@ -1,5 +1,3 @@
-<code>프론트엔드 개발을 좋아하는 한유진입니다 へ(￣∇￣へ)</code>
-
 [![Blog](https://img.shields.io/badge/yummjin.log-brightgreen)](https://yummjin.vercel.app/)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=Typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
