@@ -1,3 +1,5 @@
+[check my portfolio!](https://portfolio-five-khaki-24.vercel.app/)
+
 [![Blog](https://img.shields.io/badge/yummjin.log-brightgreen)](https://yummjin.vercel.app/)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=Typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
