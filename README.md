@@ -9,8 +9,9 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=cho4u4o)](https://solved.ac/cho4u4o)
 
-
-
+- `9oormthon-univ 경기대` 4기 WEB <sup>2025.03.22 ~</sup>
+- `경희대학교 소프트웨어 해커톤 Khuthon` 우수상 <sup>2025.05.09 ~ 2025.05.10</sup>
+- `us:code in 의성 해커톤` 최우수상 <sup>2025.06.27 ~ 2025.06.29</sup>
 
 
 
