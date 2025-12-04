@@ -1,5 +1,4 @@
-
-
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/706f8f67-c05a-41b9-8d19-1d6fdd053d8c" />
 <!--
 *Experiences*
 - @InQ-InQ-InQ-InQ 경기대학교 개발동아리 InQ 운영 <sub><sup>2024.03 - 2025.08</sup></sub>
